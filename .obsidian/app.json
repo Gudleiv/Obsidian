@@ -1,0 +1,10 @@
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "99 - Meta/Attachments",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "99 - Meta/",
+    "06 - Daily/"
+  ],
+  "promptDelete": false
+}

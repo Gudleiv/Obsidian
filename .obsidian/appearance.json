@@ -1,0 +1,12 @@
+{
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Daily Notes Themes",
+    "Preview Size"
+  ],
+  "translucency": false,
+  "cssTheme": ""
+}
